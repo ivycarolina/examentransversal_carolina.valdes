@@ -7,6 +7,7 @@ peliculas = {
     'P105': ['Codigo Zero', 'thriller', 118, 'C', 'Ingles', True],
     'P106': ['Viaje Lunar', 'ciencia ficcion', 132, 'B', 'Ingles', False],
     
+    
 }
 #######clave:[precio,cupos]
 cartelera = {
